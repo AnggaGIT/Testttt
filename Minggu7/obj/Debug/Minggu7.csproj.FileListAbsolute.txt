@@ -1,0 +1,78 @@
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\Minggu7.exe.config
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\Minggu7.exe
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\Minggu7.pdb
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\Oracle.DataAccess.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\FlashControlV71.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\bin\Debug\stdole.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\obj\Debug\Minggu7.csprojAssemblyReference.cache
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\obj\Debug\MainWindow.g.cs
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\obj\Debug\Window1.g.cs
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\obj\Debug\App.g.cs
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\obj\Debug\Minggu7_MarkupCompile.cache
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\obj\Debug\Minggu7_MarkupCompile.lref
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\obj\Debug\MainWindow.baml
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\obj\Debug\Window1.baml
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\obj\Debug\Minggu7.g.resources
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\obj\Debug\Minggu7.Properties.Resources.resources
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\obj\Debug\Minggu7.csproj.GenerateResource.cache
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\obj\Debug\Minggu7.csproj.CoreCompileInputs.cache
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\obj\Debug\Minggu7.csproj.CopyComplete
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\obj\Debug\Minggu7.exe
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu7\Minggu7\obj\Debug\Minggu7.pdb
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\Minggu7.exe.config
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\Minggu7.exe
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\Minggu7.pdb
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\Oracle.DataAccess.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\stdole.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\FlashControlV71.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\obj\Debug\Minggu7.csprojAssemblyReference.cache
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\obj\Debug\MainWindow.g.cs
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\obj\Debug\Window1.g.cs
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\obj\Debug\App.g.cs
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\obj\Debug\Minggu7_MarkupCompile.cache
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\obj\Debug\Minggu7_MarkupCompile.lref
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\obj\Debug\MainWindow.baml
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\obj\Debug\Window1.baml
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\obj\Debug\Minggu7.g.resources
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\obj\Debug\Minggu7.Properties.Resources.resources
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\obj\Debug\Minggu7.csproj.GenerateResource.cache
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\obj\Debug\Minggu7.csproj.CoreCompileInputs.cache
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\obj\Debug\Minggu7.csproj.CopyComplete
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\obj\Debug\Minggu7.exe
+C:\Users\LEGION I5\Desktop\Praktikum PCS\Minggu 7\Minggu7\obj\Debug\Minggu7.pdb
